@@ -1,4 +1,4 @@
-La finalidad de este programa es permitirle al usuario agregar usuarios a una agenda la cual será guardada en un TxT y también podrá guardarlo en formato xml.
+La finalidad de este programa es permitirle al usuario agregar contactos a una agenda la cual será guardada en un TxT y también podrá guardarlo en formato xml.
 
 Acciones del programa:
 
