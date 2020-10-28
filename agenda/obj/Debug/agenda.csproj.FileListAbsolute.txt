@@ -1,0 +1,37 @@
+C:\Users\Darkdream\Desktop\agenda\agenda\bin\Debug\agenda.exe.config
+C:\Users\Darkdream\Desktop\agenda\agenda\obj\Debug\agenda.csprojResolveAssemblyReference.cache
+C:\Users\Darkdream\Desktop\agenda\agenda\obj\Debug\agenda.Properties.Resources.resources
+C:\Users\Darkdream\Desktop\agenda\agenda\obj\Debug\agenda.csproj.GenerateResource.Cache
+C:\Users\Darkdream\Desktop\agenda\agenda\bin\Debug\agenda.exe
+C:\Users\Darkdream\Desktop\agenda\agenda\bin\Debug\agenda.pdb
+C:\Users\Darkdream\Desktop\agenda\agenda\obj\Debug\agenda.exe
+C:\Users\Darkdream\Desktop\agenda\agenda\obj\Debug\agenda.pdb
+C:\Users\Darkdream\Desktop\agenda\agenda\obj\Debug\agenda.frm_interfaz.resources
+C:\Users\Usuario\Desktop\agenda\agenda\bin\Debug\agenda.exe.config
+C:\Users\Usuario\Desktop\agenda\agenda\obj\Debug\agenda.exe
+C:\Users\Usuario\Desktop\agenda\agenda\obj\Debug\agenda.pdb
+C:\Users\Usuario\Desktop\agenda\agenda\bin\Debug\agenda.exe
+C:\Users\Usuario\Desktop\agenda\agenda\bin\Debug\agenda.pdb
+C:\Users\Usuario\Desktop\agenda\agenda\obj\Debug\agenda.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\agenda\agenda\obj\Debug\agenda.frm_interfaz.resources
+C:\Users\Usuario\Desktop\agenda\agenda\obj\Debug\agenda.Properties.Resources.resources
+C:\Users\Usuario\Desktop\agenda\agenda\obj\Debug\agenda.csproj.GenerateResource.Cache
+C:\Users\Darkdream\Desktop\Cosas de la U\Progra 3\agenda\agenda\bin\Debug\agenda.exe.config
+C:\Users\Darkdream\Desktop\Cosas de la U\Progra 3\agenda\agenda\obj\Debug\agenda.exe
+C:\Users\Darkdream\Desktop\Cosas de la U\Progra 3\agenda\agenda\obj\Debug\agenda.pdb
+C:\Users\Darkdream\Desktop\Cosas de la U\Progra 3\agenda\agenda\bin\Debug\agenda.exe
+C:\Users\Darkdream\Desktop\Cosas de la U\Progra 3\agenda\agenda\bin\Debug\agenda.pdb
+C:\Users\Darkdream\Desktop\Cosas de la U\Progra 3\agenda\agenda\obj\Debug\agenda.csprojResolveAssemblyReference.cache
+C:\Users\Darkdream\Desktop\Cosas de la U\Progra 3\agenda\agenda\obj\Debug\agenda.frm_interfaz.resources
+C:\Users\Darkdream\Desktop\Cosas de la U\Progra 3\agenda\agenda\obj\Debug\agenda.Properties.Resources.resources
+C:\Users\Darkdream\Desktop\Cosas de la U\Progra 3\agenda\agenda\obj\Debug\agenda.csproj.GenerateResource.Cache
+D:\Anime y Respaldos-Gamedesign\Cosas de la U\Progra 3\C#\agenda\agenda\bin\Debug\agenda.exe.config
+D:\Anime y Respaldos-Gamedesign\Cosas de la U\Progra 3\C#\agenda\agenda\bin\Debug\agenda.exe
+D:\Anime y Respaldos-Gamedesign\Cosas de la U\Progra 3\C#\agenda\agenda\bin\Debug\agenda.pdb
+D:\Anime y Respaldos-Gamedesign\Cosas de la U\Progra 3\C#\agenda\agenda\obj\Debug\agenda.csprojAssemblyReference.cache
+D:\Anime y Respaldos-Gamedesign\Cosas de la U\Progra 3\C#\agenda\agenda\obj\Debug\agenda.frm_interfaz.resources
+D:\Anime y Respaldos-Gamedesign\Cosas de la U\Progra 3\C#\agenda\agenda\obj\Debug\agenda.Properties.Resources.resources
+D:\Anime y Respaldos-Gamedesign\Cosas de la U\Progra 3\C#\agenda\agenda\obj\Debug\agenda.csproj.GenerateResource.cache
+D:\Anime y Respaldos-Gamedesign\Cosas de la U\Progra 3\C#\agenda\agenda\obj\Debug\agenda.csproj.CoreCompileInputs.cache
+D:\Anime y Respaldos-Gamedesign\Cosas de la U\Progra 3\C#\agenda\agenda\obj\Debug\agenda.exe
+D:\Anime y Respaldos-Gamedesign\Cosas de la U\Progra 3\C#\agenda\agenda\obj\Debug\agenda.pdb
